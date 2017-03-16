@@ -1,2 +1,4 @@
 # Practice
-The repository use to practice.
+The repository is used to practice.
+Starting programming
+Improve the ability of program
